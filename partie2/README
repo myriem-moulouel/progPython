@@ -1,0 +1,8 @@
+# exercice 1:
+commande : python3 exercice1.py arg1 arg2 ...
+
+# exercice 2:
+exemple de commande : python3 cut.py -d , -f 3-5,3-4,1-1 test.txt
+
+# exercice 3:
+commande : python3 stats.py
